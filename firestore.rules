@@ -1,0 +1,9 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      // Until you log in and get a UID, block all access
+      allow read, write: if false; 
+    }
+  }
+}
