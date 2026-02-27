@@ -31,6 +31,6 @@
 
 ## Phase 3 (Future): Core Backend & Search
 - [ ] Step 11: Implement Search & Filtering Logic
-- [ ] Step 12: Firebase Integration Preparation
+- [x] Step 12: Firebase Integration Preparation
 - [ ] Step 13: Real-time Chat stub
 - [ ] Step 14: Booking Slots calendar UI
