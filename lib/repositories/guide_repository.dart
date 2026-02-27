@@ -14,7 +14,7 @@ class GuideRepository {
     return [
       Guide(
         id: '1',
-        name: 'Arjun Singh',
+        name: 'Sooraj Singh Rounkley',
         email: 'arjun.explorer@email.com',
         contact: '+91 98765 43210',
         instaHandle: '@arjun_trails',

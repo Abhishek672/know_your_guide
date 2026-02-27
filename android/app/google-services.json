@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "631275381670",
+    "project_id": "knowyoirguide",
+    "storage_bucket": "knowyoirguide.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631275381670:android:c6075bcf3cbb0798cfa567",
+        "android_client_info": {
+          "package_name": "com.example.know_your_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631275381670-l2ndtoshsj2t5c19e5so0hsqfkagt0k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHnPgG54f7_VeGb9dSWG2FXLlQuFaC-CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631275381670-l2ndtoshsj2t5c19e5so0hsqfkagt0k2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631275381670-55rtg83m05cc9bkai47u2lfr5uhrkoj2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.knowYourGuide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
